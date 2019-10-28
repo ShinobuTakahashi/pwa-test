@@ -1,0 +1,1 @@
+window.gLocalAssetContainer["sk_stg_ef"] = "{%22version%22:%222.0.0%22,%22contents%22:{%22cells%22:{%22stg_hit_ef%22:{%22pos%22:{%22x%22:1,%22y%22:1},%22size%22:{%22width%22:110,%22height%22:134},%22pivot%22:{%22x%22:0,%22y%22:0},%22rz%22:0,%22name%22:%22stg_hit_ef%22}},%22name%22:%22stg_ef%22,%22imageAssetName%22:%22stg_ef%22,%22imageSizeW%22:128,%22imageSizeH%22:256}}"

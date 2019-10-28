@@ -1,0 +1,1 @@
+window.gLocalAssetContainer["pj_stg_ef"] = "{%22version%22:%222.0.0%22,%22contents%22:{%22boneSetFileNames%22:[%22bn_damage.asabn%22],%22skinFileNames%22:[%22sk_stg_ef.asask%22],%22animationFileNames%22:[%22an_damage_hit.asaan%22],%22userData%22:{%22combinationInfo%22:[{%22boneName%22:%22damage%22,%22animationNames%22:[%22damage_hit%22],%22skinNames%22:[%22stg_ef%22]}]}}}"
