@@ -13,6 +13,6 @@
       "type": "image/png"
     }],
   "start_url": "./?utm_source=homescreen",
-  "display": "standalone",
+  "display": "fullscreen",
   "orientation": "landscape"
 }
